@@ -8,6 +8,7 @@ Build, debug and (optionally) deploy a Fivetran connector for weather data from 
 2. Download these files from [fivetran-clgritton/DD-26](https://github.com/fivetran-clgritton/DD-26) into `fivetran`:
    - `Connector_SDK_Assistant.md`
    - `nws_api.json`: the API spec from api.weather.gov.
+   - `view_data.py`: optional script to show test data with DuckDB
 
 ## Let's make a connector!
 
