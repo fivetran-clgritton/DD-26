@@ -27,7 +27,7 @@ Build, debug and (optionally) deploy a Fivetran connector for weather data from 
 
 A successful debug will look something like this:
 
-![Successful debug output](images/debug-output.png)
+![Successful debug output](debug-output.png)
 
 ## View the output
 
